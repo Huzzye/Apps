@@ -1,5 +1,7 @@
 <!-- _coverpage.md -->
 
+![logo](https://cdn.jsdelivr.net/gh/Huzzye/Apps/_scr/icon.svg)
+
 # 绝赞应用程式推荐集 <small>0.1</small>
 
 > An awesome project.
