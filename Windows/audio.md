@@ -11,6 +11,6 @@
 
 - 免费音频播放器，具备高度定制化能力
 
-### [listen1](https://listen1.github.io/listen1)
+### [Listen1](https://listen1.github.io/listen1)
 
 - 一站式免费音乐集合
